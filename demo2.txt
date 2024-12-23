@@ -3,9 +3,8 @@ Hello! am starting with github and git learning new skills related to web develo
 Here you have to add a new image about your last interface project....
 
 Now after adding the image you have to add comments on your work for more explanation!
-<<<<<<< HEAD
 
 Say yes!
 =======
 Done.
->>>>>>> 80cfde0819726707f7a4820c50f4413edcb51ae7
+
